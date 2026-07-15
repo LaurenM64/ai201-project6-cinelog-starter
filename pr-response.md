@@ -49,4 +49,4 @@ This PR adds a comprehensive Watchlist feature to CineLog, allowing users to sav
 
 ## Screenshot
 
-<img width="729" height="184" alt="Commit_List" src="https://github.com/user-attachments/assets/d12175c1-20e1-40e9-9cbf-351f590eddaf" />
+![Commit List](https://github.com/user-attachments/assets/d12175c1-20e1-40e9-9cbf-351f590eddaf)
